@@ -1,0 +1,13 @@
+build/
+cmake-build-*/
+
+.vscode/
+.idea/
+*.vcxproj*
+*.sln
+
+.DS_Store
+Thumbs.db
+
+vcpkg_installed/
+vcpkg.json
